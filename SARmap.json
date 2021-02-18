@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "group": "Student Learning Outcome"
+          },
+          {
+            "id": 2,
+            "group": "Activity/Content"
+          },
+          {
+            "id": 3,
+            "group": "Activity/Content"
+          },
+          {
+            "id": 4,
+            "group": "Assessment"
+          },
+          {
+            "id": 5,
+            "group": "Activity/Content"
+          },
+          {
+            "id": 6,
+            "group": "Assessment"
+          },
+          {
+            "id": 7,
+            "group": "Student Learning Outcome"
+          },
+          {
+            "id": 8,
+            "group": "Student Learning Outcome"
+          },
+          {
+            "id": 9,
+            "group": "Activity/Content"
+          },
+          {
+            "id": 10,
+            "group": "Activity/Content"
+          },
+          {
+            "id": 11,
+            "group": "Assessment"
+          },
+          {
+            "id": 12,
+            "group": "Student Learning Outcome"
+          },
+          {
+            "id": 13,
+            "group": "Activity/Content"
+          },
+          {
+            "id": 14,
+            "group": "Assessment"
+          },
+          {
+            "id": 15,
+            "group": "Activity/Content"
+          },
+          {
+            "id": 16,
+            "group": "Assessment"
+          },
+          {
+            "id": 17,
+            "group": "Activity/Content"
+          },
+          {
+            "id": 18,
+            "group": "Activity/Content"
+          },
+          {
+            "id": 19,
+            "group": "Assessment"
+          },
+          {
+            "id": 20,
+            "group": "Student Learning Outcome"
+          },
+          {
+            "id": 21,
+            "group": "Activity/Content"
+          },
+          {
+            "id": 22,
+            "group": "Activity/Content"
+          },
+          {
+            "id": 23,
+            "group": "Assessment"
+          },
+          {
+            "id": 24,
+            "group": "Activity/Content"
+          },
+          {
+            "id": 25,
+            "group": "Assessment"
+          },
+          {
+            "id": 26,
+            "group": "Activity/Content"
+          },
+          {
+            "id": 27,
+            "group": "Activity/Content"
+          },
+          {
+            "id": 28,
+            "group": "Assessment"
+          }
+
+
+    ],
+    "links": [
+            {
+              "source": 1,
+              "target": 2
+            },
+            {
+              "source": 1,
+              "target": 3
+            },
+            {
+              "source": 1,
+              "target": 5
+            },
+            {
+              "source": 1,
+              "target": 8
+            },
+            {
+              "source": 3,
+              "target": 4
+            },
+            {
+              "source": 3,
+              "target": 6
+            },
+            {
+              "source": 5,
+              "target": 6
+            },
+            {
+              "source": 7,
+              "target": 26
+            },
+            {
+              "source": 8,
+              "target": 9
+            },
+            {
+              "source": 8,
+              "target": 10
+            },
+            {
+              "source": 8,
+              "target": 12
+            },
+            {
+              "source": 8,
+              "target": 20
+            },
+            {
+              "source": 9,
+              "target": 10
+            },
+            {
+              "source": 10,
+              "target": 11
+            },
+            {
+              "source": 12,
+              "target": 13
+            },
+            {
+              "source": 12,
+              "target": 15
+            },
+            {
+              "source": 12,
+              "target": 17
+            },
+            {
+              "source": 12,
+              "target": 18
+            },
+            {
+              "source": 12,
+              "target": 7
+            },
+            {
+              "source": 13,
+              "target": 14
+            },
+            {
+              "source": 13,
+              "target": 15
+            },
+            {
+              "source": 15,
+              "target": 16
+            },
+            {
+              "source": 15,
+              "target": 17
+            },
+            {
+              "source": 15,
+              "target": 18
+            },
+            {
+              "source": 18,
+              "target": 19
+            },
+            {
+              "source": 20,
+              "target": 21
+            },
+            {
+              "source": 20,
+              "target": 22
+            },
+            {
+              "source": 20,
+              "target": 24
+            },
+            {
+              "source": 20,
+              "target": 7
+            },
+            {
+              "source": 21,
+              "target": 22
+            },
+            {
+              "source": 21,
+              "target": 24
+            },
+            {
+              "source": 21,
+              "target": 23
+            },
+            {
+              "source": 24,
+              "target": 25
+            },
+            {
+              "source": 26,
+              "target": 27
+            },
+            {
+              "source": 26,
+              "target": 28
+            }
+        
+    ]
+}
